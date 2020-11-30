@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "127795147744",
+    "firebase_url": "https://utrend-276602.firebaseio.com",
+    "project_id": "utrend-276602",
+    "storage_bucket": "utrend-276602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127795147744:android:f100a3e5e4ec09f0f4f185",
+        "android_client_info": {
+          "package_name": "com.type0.utrend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127795147744-2s70vl42co277e7o2d7gspdj2sng27jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJuEsWhS1Nbv5TwWfQ7HYkq9Ulepd5z3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127795147744-2s70vl42co277e7o2d7gspdj2sng27jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
